@@ -1,0 +1,4 @@
+FROM scratch
+MAINTAINER Joe DiMartino
+
+RUN echo hello world
